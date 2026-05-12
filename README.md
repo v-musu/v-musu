@@ -1,5 +1,5 @@
-## Hola 👋 
-## Te doy la bienvenida a mi perfil.
+## Hola 👋 Te doy la bienvenida a mi perfil.
+
 
 <!--
 **v-musu/v-musu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
