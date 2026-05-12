@@ -1,15 +1,5 @@
-<div id="header" align="center">
-  <h1>¡Hola! Te doy la bienvenida a mi perfil.</h1>
-  <div id="badges">
-    <h3>Podes encontrarme también en: 
-      <a href="https://www.linkedin.com/in/vicmusu/">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" valign="middle"/>
-    </a>
-    </h3>
-  </div>
-</div>
+<div align="center"><h1>¡Hola! Te doy la bienvenida a mi perfil.</h1></div>
 
----
 ### :woman_technologist: Sobre mi:
 - 📍 Soy QA Tester con +3 años de experiencia y vivo en Argentina.
   
